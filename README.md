@@ -2,8 +2,10 @@
 
 I'm Ryouta Nihei(a.k.a. Kebin).
 
+<!DOCTYPE html>
+<html>
 <script src="https://uptime.betterstack.com/widgets/announcement.js" data-id="169424" async="async" type="text/javascript"></script>
-
+</html>
 <!--
 **kebin-rn/kebin-rn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
