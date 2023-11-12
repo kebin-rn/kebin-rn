@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 I'm Ryouta Nihei(a.k.a. Kebin).
+Please read my [home page](https://xn--08j8cqe.jp).
+If not working, check the [status page](https://status.kebin-cf.net/).
 
 
 <!--
